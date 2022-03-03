@@ -1,2 +1,2 @@
-# titanic-datavisualization
+# Titanic - data visualization project
 Kaggle Titanic Challenge
